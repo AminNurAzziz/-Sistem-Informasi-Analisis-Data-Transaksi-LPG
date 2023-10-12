@@ -74,7 +74,7 @@
   </a>
 </p>
 
-Proyek "Sistem Informasi Analisis Data Transaksi LPG" adalah sebuah sistem yang dikembangkan untuk menganalisis dan mengelola data transaksi penjualan LPG (Liquified Petroleum Gas). Aplikasi ini dirancang untuk membantu pemilik bisnis LPG dalam memahami pola penjualan, dan performa bisnis mereka..
+Proyek "Sistem Informasi Analisis Data Transaksi LPG" adalah sebuah sistem yang dikembangkan untuk menganalisis dan mengelola data transaksi penjualan LPG (Liquified Petroleum Gas). Aplikasi ini dirancang untuk membantu pemilik bisnis LPG dalam memahami pola penjualan, dan performa bisnis mereka.
 
 ## Deskripsi
 
